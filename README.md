@@ -1,6 +1,45 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# Mathmagicians
 
+This is the Mathmagicians app initialized in the first week of the third module in the Microverse program, it is also my first app using React. <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built With
+![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-webpack-9cf) ![](https://img.shields.io/badge/-React-cyan)
+- HTML/CSS
+- Javascript
+- Visual Studio Code
+- Node.js
+- Webpack
+- Jest
+- React
+
+## Live Demo
+
+ [N/A]()
+
+ ## Video Preview
+
+ [N/A]()
+
+ ## Getting Started
+
+To clone the repo run the line `git clone https://github.com/lucas-crodrigues/mathmagicians.git` on your console.
+
+To get a local copy up and running, run these command lines on your console:<br>
+  1- `cd mathmagicians` <br>
+  2-  `npm install` <br>
+  3-  `npm start` <br>
+
+  ## Authors
+
+👤 **Lucas Costa Rodrigues**
+
+GitHub: [@lucas-crodrigues](https://github.com/lucas-crodrigues)
+
+Twitter: [@lcrodrigues58](https://twitter.com/lcrodrigues58)
+
+LinkedIn: [Lucas Costa Rodrigues](https://www.linkedin.com/in/lucascostarodrigues/)
 
 ## Available Scripts
 
@@ -68,3 +107,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/lucas-crodrigues/mathmagicians/issues).
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+[Microverse](https://github.com/microverseinc) team. <br>
+
+## 📝 License
+
+This project is MIT licensed.
