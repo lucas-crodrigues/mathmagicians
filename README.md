@@ -16,11 +16,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
- [N/A]()
+ [N/A](#)
 
  ## Video Preview
 
- [N/A]()
+ [N/A](#)
 
  ## Getting Started
 
