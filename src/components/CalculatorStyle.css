@@ -20,6 +20,10 @@
   color: white;
 }
 
+::placeholder {
+  color: white;
+}
+
 .buttons {
   display: grid;
   grid-template-columns: auto auto auto auto;
