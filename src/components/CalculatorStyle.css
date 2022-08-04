@@ -12,19 +12,19 @@
 
 .output {
   width: 100%;
-  height: 17%;
+  height: 15%;
   text-align: end;
   font-size: 22px;
-  padding-right: 10px;
   background-color: rgb(128, 128, 128);
   color: white;
+  padding: 15px;
 }
 
 .buttons {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto auto auto auto auto;
-  height: 83%;
+  height: 85%;
 }
 
 button {
