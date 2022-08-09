@@ -1,20 +1,20 @@
-import { Link } from 'react-router-dom';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import './Page.css';
 
 const Quote = () => (
   <div className="quote">
-    <header>
-      <h1>Math Magicians</h1>
-      <nav>
-        <Link to="/">Home</Link>
-      </nav>
-      <nav>
-        <Link to="/calculator">Calculator</Link>
-      </nav>
-      <nav>
-        <Link to="/quote">Quote</Link>
-      </nav>
-    </header>
-    <h3>“Sometimes the questions are complicated and the answers are simple.” – Dr. Seuss</h3>
+    <Header />
+    <h3
+      style={{
+        margin: '4vh 2vw',
+        fontSize: '40px',
+        paddingBottom: '30vh',
+      }}
+    >
+      “Sometimes the questions are complicated and the answers are simple.” – Dr. Seuss
+    </h3>
+    <Footer />
   </div>
 );
 
