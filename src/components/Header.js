@@ -6,11 +6,14 @@ const Header = () => (
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'space-between',
+      padding: '4vh 2vw',
+      backgroundColor: 'lightgray',
+      borderBottom: '1px solid gray',
     }}
   >
     <h1
       style={{
-        marginLeft: '2vw',
+        fontSize: '40px',
       }}
     >
       Math Magicians
@@ -26,20 +29,35 @@ const Header = () => (
       <nav
         style={{
           cursor: 'pointer',
+          fontSize: '20px',
         }}
       >
         <Link to="/">Home</Link>
       </nav>
+      <div
+        style={{
+          borderLeft: '1px solid gray',
+          height: '5vh',
+        }}
+      />
       <nav
         style={{
           cursor: 'pointer',
+          fontSize: '20px',
         }}
       >
         <Link to="/calculator">Calculator</Link>
       </nav>
+      <div
+        style={{
+          borderLeft: '1px solid gray',
+          height: '5vh',
+        }}
+      />
       <nav
         style={{
           cursor: 'pointer',
+          fontSize: '20px',
         }}
       >
         <Link to="/quote">Quote</Link>
