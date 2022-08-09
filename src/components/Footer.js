@@ -2,7 +2,7 @@ const Footer = () => (
   <footer
     style={{
       backgroundColor: 'gray',
-      border: '1px solid black',
+      borderTop: '1px solid black',
       height: '25px',
     }}
   />
