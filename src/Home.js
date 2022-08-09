@@ -1,43 +1,75 @@
 import Header from './components/Header';
 import Footer from './components/Footer';
+import './Page.css';
 
 const Home = () => (
-  <div
-    className="home"
-    style={{
-      width: '100vw',
-      height: '100vh',
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'space-between',
-    }}
-  >
+  <div className="home">
     <Header />
-    <div>
+    <div
+      style={{
+        paddingBottom: '20vh',
+      }}
+    >
       <h3
         style={{
           margin: '4vh 2vw',
+          fontSize: '30px',
         }}
       >
         Welcome to our page!
       </h3>
       <p
         style={{
-          margin: '4vh 2vw',
+          margin: '4vh 3vw',
         }}
       >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Aenean blandit, erat eget hendrerit gravida, ligula velit aliquet nisi,
-        in placerat dui elit bibendum justo.
-        Nulla a ipsum blandit, congue lacus in, sagittis mauris.
-        Nullam placerat auctor ex. Ut a enim vitae lacus euismod tristique.
-        Phasellus nec semper magna, facilisis malesuada purus.
-        Morbi tincidunt vel nibh ut vehicula. Etiam vel neque orci.
+        Praesent lobortis urna quis metus interdum, sit amet tincidunt quam fringilla.
+        Sed interdum est ornare ipsum faucibus, vitae aliquam nibh sodales.
+        Aenean vestibulum nisl sit amet nunc aliquet blandit.
+        Donec posuere enim et augue varius, eu pulvinar nunc aliquet.
+        Nulla id blandit quam. Etiam porta laoreet nisl et laoreet.
+        Pellentesque mollis quis ex consequat interdum.
+        Morbi sodales lorem non neque consequat molestie.
+        Donec finibus felis ut justo scelerisque gravida.
+        Integer vel lectus sit amet ipsum pharetra pellentesque.
         <br />
-        Aenean quis enim vel nisl feugiat hendrerit. Maecenas ac faucibus magna.
-        Quisque condimentum nibh a eros posuere, fringilla rutrum magna sagittis.
-        Praesent eleifend volutpat libero ut mollis. Nam sit amet arcu est.
-        Mauris at auctor sapien. Nunc volutpat aliquet facilisis. Morbi a interdum magna.
+        Nulla nibh lectus, blandit ut sem vitae, consectetur imperdiet erat.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec euismod scelerisque odio, at interdum arcu laoreet vitae.
+        Duis maximus mauris risus, rhoncus iaculis nibh pretium sit amet.
+        Nunc quam libero, porttitor sed turpis id, cursus dictum elit.
+        Aenean eu ultricies ligula, in porta dolor.
+        Aenean posuere eleifend urna commodo tempor.
+        Nulla condimentum leo est, in elementum augue vestibulum nec.
+        Vestibulum fringilla vel sem in lobortis.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        In mattis lobortis augue, vitae blandit est varius eu.
+        <br />
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent lobortis urna quis metus interdum, sit amet tincidunt quam fringilla.
+        Sed interdum est ornare ipsum faucibus, vitae aliquam nibh sodales.
+        Aenean vestibulum nisl sit amet nunc aliquet blandit.
+        Donec posuere enim et augue varius, eu pulvinar nunc aliquet.
+        Nulla id blandit quam. Etiam porta laoreet nisl et laoreet.
+        Pellentesque mollis quis ex consequat interdum.
+        Morbi sodales lorem non neque consequat molestie.
+        Donec finibus felis ut justo scelerisque gravida.
+        Integer vel lectus sit amet ipsum pharetra pellentesque.
+        <br />
+        Nulla nibh lectus, blandit ut sem vitae, consectetur imperdiet erat.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec euismod scelerisque odio, at interdum arcu laoreet vitae.
+        Duis maximus mauris risus, rhoncus iaculis nibh pretium sit amet.
+        Nunc quam libero, porttitor sed turpis id, cursus dictum elit.
+        Aenean eu ultricies ligula, in porta dolor.
+        Aenean posuere eleifend urna commodo tempor.
+        Nulla condimentum leo est, in elementum augue vestibulum nec.
+        Vestibulum fringilla vel sem in lobortis.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        In mattis lobortis augue, vitae blandit est varius eu.
+        <br />
       </p>
     </div>
     <Footer />
