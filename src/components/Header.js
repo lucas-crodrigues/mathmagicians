@@ -23,13 +23,25 @@ const Header = () => (
         width: '25vw',
       }}
     >
-      <nav>
+      <nav
+        style={{
+          cursor: 'pointer',
+        }}
+      >
         <Link to="/">Home</Link>
       </nav>
-      <nav>
+      <nav
+        style={{
+          cursor: 'pointer',
+        }}
+      >
         <Link to="/calculator">Calculator</Link>
       </nav>
-      <nav>
+      <nav
+        style={{
+          cursor: 'pointer',
+        }}
+      >
         <Link to="/quote">Quote</Link>
       </nav>
     </div>
