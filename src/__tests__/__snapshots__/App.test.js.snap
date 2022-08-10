@@ -1,0 +1,286 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator page test suites Calculator page snapshot 1`] = `
+<div
+  className="app"
+>
+  <header
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "lightgray",
+        "borderBottom": "1px solid gray",
+        "display": "flex",
+        "justifyContent": "space-between",
+        "padding": "4vh 2vw",
+      }
+    }
+  >
+    <h1
+      style={
+        Object {
+          "fontSize": "40px",
+        }
+      }
+    >
+      Math Magicians
+    </h1>
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "space-around",
+          "width": "25vw",
+        }
+      }
+    >
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </nav>
+    </div>
+  </header>
+  <h3
+    style={
+      Object {
+        "fontSize": "30px",
+        "margin": "0 3vw",
+      }
+    }
+  >
+    Let's do some math!
+  </h3>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row-reverse",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "height": "75vh",
+          "padding": "0 5vw 5vh 0",
+          "width": "65vw",
+        }
+      }
+    >
+      <section
+        className="calculator"
+      >
+        <div
+          className="output"
+        >
+          0
+        </div>
+        <div
+          className="buttons"
+        >
+          <button
+            className="bt_clear"
+            onClick={[Function]}
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            className="bt_sign"
+            onClick={[Function]}
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            className="bt_percentage"
+            onClick={[Function]}
+            type="button"
+          >
+            %
+          </button>
+          <button
+            className="bt_division right_column"
+            onClick={[Function]}
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            className="bt_7"
+            onClick={[Function]}
+            type="button"
+          >
+            7
+          </button>
+          <button
+            className="bt_8"
+            onClick={[Function]}
+            type="button"
+          >
+            8
+          </button>
+          <button
+            className="bt_9"
+            onClick={[Function]}
+            type="button"
+          >
+            9
+          </button>
+          <button
+            className="bt_times right_column"
+            onClick={[Function]}
+            type="button"
+          >
+            x
+          </button>
+          <button
+            className="bt_4"
+            onClick={[Function]}
+            type="button"
+          >
+            4
+          </button>
+          <button
+            className="bt_5"
+            onClick={[Function]}
+            type="button"
+          >
+            5
+          </button>
+          <button
+            className="bt_6"
+            onClick={[Function]}
+            type="button"
+          >
+            6
+          </button>
+          <button
+            className="bt_minus right_column"
+            onClick={[Function]}
+            type="button"
+          >
+            -
+          </button>
+          <button
+            className="bt_1"
+            onClick={[Function]}
+            type="button"
+          >
+            1
+          </button>
+          <button
+            className="bt_2"
+            onClick={[Function]}
+            type="button"
+          >
+            2
+          </button>
+          <button
+            className="bt_3"
+            onClick={[Function]}
+            type="button"
+          >
+            3
+          </button>
+          <button
+            className="bt_plus right_column"
+            onClick={[Function]}
+            type="button"
+          >
+            +
+          </button>
+          <button
+            className="bt_0"
+            onClick={[Function]}
+            type="button"
+          >
+            0
+          </button>
+          <button
+            className="bt_dot"
+            onClick={[Function]}
+            type="button"
+          >
+            .
+          </button>
+          <button
+            className="bt_equal right_column"
+            onClick={[Function]}
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </section>
+    </div>
+  </div>
+  <footer
+    style={
+      Object {
+        "backgroundColor": "gray",
+        "borderTop": "1px solid black",
+        "height": "25px",
+      }
+    }
+  />
+</div>
+`;
