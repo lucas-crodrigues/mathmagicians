@@ -130,6 +130,7 @@ exports[`Calculator page test suites Calculator page snapshot 1`] = `
       >
         <div
           className="output"
+          data-testid="output"
         >
           0
         </div>
