@@ -1,7 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import Calculator from '../components/Calculator';
 
-
 describe('Calculator test suites', () => {
   test('Calculator screen', () => {
     render(<Calculator />);
