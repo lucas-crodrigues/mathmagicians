@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page test suites Home page snapshot 1`] = `
+<div
+  className="home"
+>
+  <header
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "lightgray",
+        "borderBottom": "1px solid gray",
+        "display": "flex",
+        "justifyContent": "space-between",
+        "padding": "4vh 2vw",
+      }
+    }
+  >
+    <h1
+      style={
+        Object {
+          "fontSize": "40px",
+        }
+      }
+    >
+      Math Magicians
+    </h1>
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "space-around",
+          "width": "25vw",
+        }
+      }
+    >
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </nav>
+    </div>
+  </header>
+  <div
+    style={
+      Object {
+        "paddingBottom": "20vh",
+      }
+    }
+  >
+    <h3
+      style={
+        Object {
+          "fontSize": "30px",
+          "margin": "4vh 2vw",
+        }
+      }
+    >
+      Welcome to our page!
+    </h3>
+    <p
+      style={
+        Object {
+          "margin": "4vh 3vw",
+        }
+      }
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis urna quis metus interdum, sit amet tincidunt quam fringilla. Sed interdum est ornare ipsum faucibus, vitae aliquam nibh sodales. Aenean vestibulum nisl sit amet nunc aliquet blandit. Donec posuere enim et augue varius, eu pulvinar nunc aliquet. Nulla id blandit quam. Etiam porta laoreet nisl et laoreet. Pellentesque mollis quis ex consequat interdum. Morbi sodales lorem non neque consequat molestie. Donec finibus felis ut justo scelerisque gravida. Integer vel lectus sit amet ipsum pharetra pellentesque.
+      <br />
+      Nulla nibh lectus, blandit ut sem vitae, consectetur imperdiet erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod scelerisque odio, at interdum arcu laoreet vitae. Duis maximus mauris risus, rhoncus iaculis nibh pretium sit amet. Nunc quam libero, porttitor sed turpis id, cursus dictum elit. Aenean eu ultricies ligula, in porta dolor. Aenean posuere eleifend urna commodo tempor. Nulla condimentum leo est, in elementum augue vestibulum nec. Vestibulum fringilla vel sem in lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis lobortis augue, vitae blandit est varius eu.
+      <br />
+      <br />
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis urna quis metus interdum, sit amet tincidunt quam fringilla. Sed interdum est ornare ipsum faucibus, vitae aliquam nibh sodales. Aenean vestibulum nisl sit amet nunc aliquet blandit. Donec posuere enim et augue varius, eu pulvinar nunc aliquet. Nulla id blandit quam. Etiam porta laoreet nisl et laoreet. Pellentesque mollis quis ex consequat interdum. Morbi sodales lorem non neque consequat molestie. Donec finibus felis ut justo scelerisque gravida. Integer vel lectus sit amet ipsum pharetra pellentesque.
+      <br />
+      Nulla nibh lectus, blandit ut sem vitae, consectetur imperdiet erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod scelerisque odio, at interdum arcu laoreet vitae. Duis maximus mauris risus, rhoncus iaculis nibh pretium sit amet. Nunc quam libero, porttitor sed turpis id, cursus dictum elit. Aenean eu ultricies ligula, in porta dolor. Aenean posuere eleifend urna commodo tempor. Nulla condimentum leo est, in elementum augue vestibulum nec. Vestibulum fringilla vel sem in lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis lobortis augue, vitae blandit est varius eu.
+      <br />
+    </p>
+  </div>
+  <footer
+    style={
+      Object {
+        "backgroundColor": "gray",
+        "borderTop": "1px solid black",
+        "height": "25px",
+      }
+    }
+  />
+</div>
+`;

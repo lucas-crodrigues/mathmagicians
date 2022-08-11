@@ -13,7 +13,7 @@ const Calculator = () => {
 
   return (
     <section className="calculator">
-      <div className="output">{state.next || state.operation || state.total || state.err || 0}</div>
+      <div data-testid="output" className="output">{state.next || state.operation || state.total || state.err || 0}</div>
       <div className="buttons">
         <button type="button" className="bt_clear" onClick={calculation}>AC</button>
         <button type="button" className="bt_sign" onClick={calculation}>+/-</button>

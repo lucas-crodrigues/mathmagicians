@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote page test suites Quote page snapshot 1`] = `
+<div
+  className="quote"
+>
+  <header
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "lightgray",
+        "borderBottom": "1px solid gray",
+        "display": "flex",
+        "justifyContent": "space-between",
+        "padding": "4vh 2vw",
+      }
+    }
+  >
+    <h1
+      style={
+        Object {
+          "fontSize": "40px",
+        }
+      }
+    >
+      Math Magicians
+    </h1>
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "space-around",
+          "width": "25vw",
+        }
+      }
+    >
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </nav>
+      <div
+        style={
+          Object {
+            "borderLeft": "1px solid gray",
+            "height": "5vh",
+          }
+        }
+      />
+      <nav
+        style={
+          Object {
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </nav>
+    </div>
+  </header>
+  <h3
+    style={
+      Object {
+        "fontSize": "40px",
+        "margin": "4vh 2vw",
+        "paddingBottom": "30vh",
+      }
+    }
+  >
+    “Sometimes the questions are complicated and the answers are simple.” – Dr. Seuss
+  </h3>
+  <footer
+    style={
+      Object {
+        "backgroundColor": "gray",
+        "borderTop": "1px solid black",
+        "height": "25px",
+      }
+    }
+  />
+</div>
+`;
