@@ -10,7 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Javascript
 - Visual Studio Code
 - Node.js
-- Webpack
 - Jest
 - React
 
