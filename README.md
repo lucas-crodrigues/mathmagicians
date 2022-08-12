@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
- [N/A](#)
+ [MathMagicians](https://gleeful-strudel-a1ff51.netlify.app/)
 
  ## Video Preview
 
